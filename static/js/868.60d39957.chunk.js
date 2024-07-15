@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_3dauto=self.webpackChunk_3dauto||[]).push([[868],{1868:(e,o,n)=>{n.r(o),n.d(o,{default:()=>c});n(5043);var r=n(3402),t=n(579);const a=new r.qw({id:"greencard-hgxjomf"}),c=()=>(0,t.jsx)("div",{children:(0,t.jsx)("button",{onClick:async()=>{const e=new URLSearchParams(window.location.search),o=e.get("token"),n=e.get("tokenId");if(!o||!n)throw new Error("Error");try{await a.emailPasswordAuth.confirmUser({token:o,tokenId:n}),window.location.href="/3dauto"}catch(r){}},children:"confirm"})})}}]);
+//# sourceMappingURL=868.60d39957.chunk.js.map
