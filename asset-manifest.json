@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/3dauto/static/css/main.79c01f0a.css",
-    "main.js": "/3dauto/static/js/main.cac19757.js",
+    "main.js": "/3dauto/static/js/main.ea436fe8.js",
     "static/js/662.9858c09c.chunk.js": "/3dauto/static/js/662.9858c09c.chunk.js",
     "static/js/868.60d39957.chunk.js": "/3dauto/static/js/868.60d39957.chunk.js",
     "static/css/750.89d83d57.chunk.css": "/3dauto/static/css/750.89d83d57.chunk.css",
     "static/js/750.6dfa7018.chunk.js": "/3dauto/static/js/750.6dfa7018.chunk.js",
     "static/css/306.89d83d57.chunk.css": "/3dauto/static/css/306.89d83d57.chunk.css",
     "static/js/306.3811c12a.chunk.js": "/3dauto/static/js/306.3811c12a.chunk.js",
-    "static/js/511.858827b3.chunk.js": "/3dauto/static/js/511.858827b3.chunk.js",
+    "static/js/511.24f78be0.chunk.js": "/3dauto/static/js/511.24f78be0.chunk.js",
     "static/js/402.6f66091b.chunk.js": "/3dauto/static/js/402.6f66091b.chunk.js",
     "static/js/718.d5242022.chunk.js": "/3dauto/static/js/718.d5242022.chunk.js",
     "index.html": "/3dauto/index.html",
     "main.79c01f0a.css.map": "/3dauto/static/css/main.79c01f0a.css.map",
-    "main.cac19757.js.map": "/3dauto/static/js/main.cac19757.js.map",
+    "main.ea436fe8.js.map": "/3dauto/static/js/main.ea436fe8.js.map",
     "662.9858c09c.chunk.js.map": "/3dauto/static/js/662.9858c09c.chunk.js.map",
     "868.60d39957.chunk.js.map": "/3dauto/static/js/868.60d39957.chunk.js.map",
     "750.89d83d57.chunk.css.map": "/3dauto/static/css/750.89d83d57.chunk.css.map",
     "750.6dfa7018.chunk.js.map": "/3dauto/static/js/750.6dfa7018.chunk.js.map",
     "306.89d83d57.chunk.css.map": "/3dauto/static/css/306.89d83d57.chunk.css.map",
     "306.3811c12a.chunk.js.map": "/3dauto/static/js/306.3811c12a.chunk.js.map",
-    "511.858827b3.chunk.js.map": "/3dauto/static/js/511.858827b3.chunk.js.map",
+    "511.24f78be0.chunk.js.map": "/3dauto/static/js/511.24f78be0.chunk.js.map",
     "402.6f66091b.chunk.js.map": "/3dauto/static/js/402.6f66091b.chunk.js.map",
     "718.d5242022.chunk.js.map": "/3dauto/static/js/718.d5242022.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79c01f0a.css",
-    "static/js/main.cac19757.js"
+    "static/js/main.ea436fe8.js"
   ]
 }
