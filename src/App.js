@@ -23,7 +23,7 @@ function App() {
                 <Route path="/3dauto/confirmrg" element={<Confirmrg />} />
                 <Route path="/3dauto" element={<Home />} />
                 <Route path="/3dauto/login" element={<Login />} />
-                <Route path="/3dauto/login" element={<Register />} />
+                <Route path="/3dauto/register" element={<Register />} />
        
               </Routes>
             </Suspense>
