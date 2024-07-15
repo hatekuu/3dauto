@@ -12,7 +12,7 @@ const Home = () => {
       
   }
     fetchData();
-  }, [data,fileData]);
+  }, [data]);
   
 const fetchData  = async ()=>{
   const functionName2 = "userfile";
@@ -45,7 +45,7 @@ const Uploadfile = async()=>{
   const functionName = "uploadfile";
 
   try {
-    const result= await app.currentUser.callFunction(functionName, data);
+    await app.currentUser.callFunction(functionName, data);
    
     
      window.location.reload()
